@@ -8,7 +8,7 @@ module Shoehorn
     #autoload :Form, 'shoehorn/components/form'
     #autoload :FormBuilder, 'shoehorn/components/form_builder'
     autoload :Button, 'shoehorn/components/button'
-    autoload :ButtonDropdown, 'shoehorn/components/button_dropdown'
+    autoload :Dropdown, 'shoehorn/components/dropdown'
     autoload :Navigation, 'shoehorn/components/navigation'
     autoload :Modal, 'shoehorn/components/modal'
     autoload :ProgressBar, 'shoehorn/components/progress_bar'
