@@ -118,7 +118,7 @@ Customize Bootstrap CSS class prefix (really needed???)
 ```ruby
 bootstrap_label("Hello!", type: 'info', bootstrap_class_prefix: "my_label")
 # => '<span class="my_label my_label-info">Hello!</span>'
-
+```
 
 ### Icon inline
 
