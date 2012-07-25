@@ -12,7 +12,7 @@ but I need more customization. So I borrowed the gem structure and some code for
 Add to your `Gemfile`:
 
 ```ruby
-gem 'shoehorn'
+gem 'bootstrap-shoehorn'
 ```
 
 ## Currently Supported
